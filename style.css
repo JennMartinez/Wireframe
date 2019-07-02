@@ -28,3 +28,42 @@ nav {
     margin-bottom: 10px;
 }
 
+section {
+    background: #eb672a;
+    float: left;
+    height: 80%;
+    padding: 35px;
+    width: 45%;
+    margin-left: 10%;
+    margin-bottom: 20px;
+}
+
+article {
+    background: rgb(121, 37, 146);
+    margin-left: 30%;
+    padding: 20px;
+    width: 90%;
+    height: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+div {
+    background: #d3217a;
+    width: 100%;
+    padding: 10px;
+    height: 18%;
+    margin-bottom: 10px;  
+    margin-top: 10px;
+}
+
+p {
+    background: #602fa0;
+    width: 100%;
+    padding: 10px;
+    height: 18%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
