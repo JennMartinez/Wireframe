@@ -80,7 +80,7 @@ aside {
 }
 
 div#info {
-    background: #0e6413;
+    background: #16a51d;
     float: left;
     width: 100%;
     height: 60%;
@@ -90,7 +90,7 @@ div#info {
 }
 
 nav#bottom-nav-bar {
-    background: #201dc4;
+    background: #c4521d;
     width: 80%;
     margin-top: 10px;
     clear: both;
