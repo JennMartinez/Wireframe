@@ -10,3 +10,21 @@ body {
     font-size: 18px;
 }
 
+header {
+    background: #70df27;
+    padding: 35px;
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
+    margin-bottom: 10px;
+}
+
+nav {
+    background: #201dc4;
+    padding: 35px;
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
+    margin-bottom: 10px;
+}
+
